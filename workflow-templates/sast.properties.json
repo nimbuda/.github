@@ -1,0 +1,13 @@
+{
+    "name": "SAST (Static Application Security Testing)",
+    "description": "SAST scans for code starter workflow.",
+    "categories": [
+        "SAST",
+        "Security"
+    ],
+    "filePatterns": [
+        "package.json$",
+        ".*\\.go$",
+        ".*\\.rb$"
+    ]
+}
